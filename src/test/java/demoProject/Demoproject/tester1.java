@@ -14,5 +14,8 @@ public void demo2()
 {
 	System.out.println("demo2");
 	System.out.println("demo2 for test");
+	System.out.println("demo2");
+	System.out.println("demo2 for test");
+	
 }
 }
