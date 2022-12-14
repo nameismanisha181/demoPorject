@@ -13,5 +13,6 @@ public void demo1()
 public void demo2()
 {
 	System.out.println("demo2");
+	System.out.println("demo2 for test");
 }
 }
